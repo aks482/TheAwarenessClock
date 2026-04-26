@@ -1,0 +1,144 @@
+{
+  "id": "mof1qvxmh4xco",
+  "name": "30s Asanas",
+  "icon": "🌼",
+  "color": "#ffff00",
+  "type": "practice",
+  "unit": "sec",
+  "reps": 1,
+  "durationMin": 5,
+  "restSec": 0,
+  "sound": "builtin_0_1",
+  "nested": true,
+  "roots": [
+    {
+      "id": "moc9xy3br0866",
+      "name": "Standing",
+      "value": 30,
+      "reps": 8,
+      "sound": "builtin_0_2",
+      "restSec": 12,
+      "children": []
+    },
+    {
+      "id": "moca08e3gva1b",
+      "name": "Rest",
+      "value": 30,
+      "reps": 1,
+      "sound": "builtin_2_2",
+      "restSec": 0,
+      "children": []
+    },
+    {
+      "id": "moc9zgin11l6s",
+      "name": "Lying down",
+      "value": 30,
+      "reps": 6,
+      "sound": "builtin_0_2",
+      "restSec": 5,
+      "children": []
+    },
+    {
+      "id": "moca0xtgbq7dv",
+      "name": "Face Down",
+      "value": 30,
+      "reps": 2,
+      "sound": "builtin_0_2",
+      "restSec": 0,
+      "children": [
+        {
+          "id": "moca1ih98ozz4",
+          "name": "Prep",
+          "value": 15,
+          "reps": 2,
+          "sound": "builtin_0_1",
+          "restSec": 5,
+          "children": []
+        },
+        {
+          "id": "moca222fpnm18",
+          "name": "Asana",
+          "value": 30,
+          "reps": 1,
+          "sound": "builtin_0_2",
+          "restSec": 5,
+          "children": []
+        }
+      ]
+    },
+    {
+      "id": "moca32hpmkku1",
+      "name": "Face Down 2",
+      "value": 30,
+      "reps": 2,
+      "sound": "builtin_0_2",
+      "restSec": 12,
+      "children": []
+    },
+    {
+      "id": "moca3j1leqgzz",
+      "name": "Rest",
+      "value": 60,
+      "reps": 1,
+      "sound": "builtin_2_2",
+      "restSec": 0,
+      "children": []
+    },
+    {
+      "id": "moca3pamhuupm",
+      "name": "Sitting",
+      "value": 30,
+      "reps": 5,
+      "sound": "builtin_0_2",
+      "restSec": 12,
+      "children": []
+    },
+    {
+      "id": "moca4cis2exp7",
+      "name": "Sarvangasana",
+      "value": 5,
+      "reps": 1,
+      "sound": "builtin_0_3",
+      "restSec": 0,
+      "children": [
+        {
+          "id": "moca4md2ktuc7",
+          "name": "Asanas",
+          "value": 30,
+          "reps": 5,
+          "sound": "builtin_0_2",
+          "restSec": 10,
+          "children": []
+        },
+        {
+          "id": "moca5p7e5dq2w",
+          "name": "Stretching",
+          "value": 30,
+          "reps": 6,
+          "sound": "builtin_0_1",
+          "restSec": 5,
+          "children": []
+        },
+        {
+          "id": "moca6edl5g4ni",
+          "name": "Manduka",
+          "value": 30,
+          "reps": 1,
+          "sound": "builtin_0_3",
+          "restSec": 10,
+          "children": []
+        }
+      ]
+    },
+    {
+      "id": "moca6z6gntwul",
+      "name": "Shavasana",
+      "value": 240,
+      "reps": 1,
+      "sound": "builtin_0_3",
+      "restSec": 0,
+      "children": []
+    }
+  ],
+  "effectiveSec": 1684
+}

@@ -1,0 +1,52 @@
+{
+  "id": "moeiskinwxt5s",
+  "name": "Shambhavi",
+  "icon": "🧘",
+  "color": "#E8B4B8",
+  "type": "practice",
+  "unit": "min",
+  "reps": 1,
+  "durationMin": 5,
+  "restSec": 0,
+  "sound": "builtin_0_1",
+  "nested": true,
+  "roots": [
+    {
+      "id": "moeissxkfvzba",
+      "name": "SK",
+      "value": 6.5,
+      "reps": 1,
+      "sound": "builtin_0_1",
+      "restSec": 0,
+      "children": []
+    },
+    {
+      "id": "moeisva4oyy8d",
+      "name": "AUM",
+      "value": 4.5,
+      "reps": 1,
+      "sound": "builtin_0_1",
+      "restSec": 0,
+      "children": []
+    },
+    {
+      "id": "moeiswedfyogw",
+      "name": "Flutter",
+      "value": 3.5,
+      "reps": 1,
+      "sound": "builtin_0_1",
+      "restSec": 0,
+      "children": []
+    },
+    {
+      "id": "moeisxffs325t",
+      "name": "Final",
+      "value": 6.5,
+      "reps": 1,
+      "sound": "builtin_0_1",
+      "restSec": 0,
+      "children": []
+    }
+  ],
+  "effectiveSec": 1260
+}

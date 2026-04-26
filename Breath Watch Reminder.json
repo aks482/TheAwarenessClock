@@ -1,0 +1,15 @@
+{
+  "id": "moeitor92f4qw",
+  "name": "Breathwatch Reminder",
+  "icon": "🐍",
+  "color": "#E8B4B8",
+  "type": "reminder",
+  "unit": "min",
+  "reps": 1,
+  "durationMin": 60,
+  "restSec": 0,
+  "sound": "builtin_4_3",
+  "nested": false,
+  "roots": null,
+  "effectiveSec": 3600
+}

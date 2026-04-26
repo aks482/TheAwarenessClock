@@ -1,0 +1,53 @@
+{
+  "id": "mof2oknckc47e",
+  "name": "Preparatory Asanas",
+  "icon": "🌱",
+  "color": "#70b056",
+  "type": "practice",
+  "unit": "min",
+  "reps": 1,
+  "durationMin": 5,
+  "restSec": 0,
+  "sound": "builtin_0_1",
+  "nested": true,
+  "roots": [
+    {
+      "id": "mof2opifvmvsj",
+      "name": "Start",
+      "value": 0.5,
+      "reps": 1,
+      "sound": "builtin_0_1",
+      "restSec": 0,
+      "children": []
+    },
+    {
+      "id": "mof2pw0jvnoan",
+      "name": "Session 1",
+      "value": 2,
+      "reps": 3,
+      "sound": "builtin_0_2",
+      "restSec": 5,
+      "children": []
+    },
+    {
+      "id": "mof2qx1wu97lv",
+      "name": "Session 2",
+      "value": 0.1,
+      "reps": 1,
+      "sound": "builtin_0_2",
+      "restSec": 5,
+      "children": [
+        {
+          "id": "mof2rbt62u98z",
+          "name": "Sub-step 1",
+          "value": 0.1,
+          "reps": 10,
+          "sound": "builtin_0_1",
+          "restSec": 3,
+          "children": []
+        }
+      ]
+    }
+  ],
+  "effectiveSec": 487
+}

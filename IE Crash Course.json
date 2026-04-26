@@ -1,0 +1,15 @@
+{
+  "id": "mofnafnvnq84j",
+  "name": "IE Crash Course",
+  "icon": "🌸",
+  "color": "#ffff00",
+  "type": "practice",
+  "unit": "min",
+  "reps": 1,
+  "durationMin": 45,
+  "restSec": 0,
+  "sound": "builtin_1_2",
+  "nested": false,
+  "roots": null,
+  "effectiveSec": 2700
+}
